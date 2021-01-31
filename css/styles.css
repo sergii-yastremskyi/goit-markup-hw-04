@@ -633,6 +633,10 @@ margin-bottom: 20px;
     color: var(--font-color);
     font-style: normal;
 }
+.portfolio-list-link {
+   display: block;
+   
+}
 .portfolio-list-item:hover,
 .portfolio-list-item:focus,
 .portfolio-list-link:focus {
