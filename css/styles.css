@@ -459,7 +459,9 @@ fill: inherit;
     width: 44.2px;
     height: 49.2px;
 } */
+
 /* footer */
+
 .footer {
     background-color: var(--hero-bg-color);
      padding-bottom: 60px;
@@ -478,10 +480,10 @@ fill: inherit;
     margin-right: 70px;
 }
 .footer-right {
-    margin-top: 12px;
+    padding-top: 12px;
 }
 .logo-studio-footer {
-    
+    display: block;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
@@ -489,10 +491,12 @@ fill: inherit;
     /* identical to box height */
     letter-spacing: 0.03em;
     color: var(--bg-color);
-    font-family: Raleway;   
+    font-family: Raleway; 
+    margin-bottom: 20px;
 }
+
 .footer-p {
-    /* margin-top: 20px; */
+    
     font-weight: normal;
     font-size: 14px;
     line-height: 1.714;
@@ -511,10 +515,10 @@ fill: inherit;
     color: rgba(255, 255, 255, 0.6);
     font-style: normal;
 }
-.adress {
+/* .adress {
     margin-top: 20px;
    
-}
+} */
 .adress-list-item:not(:last-child){
     margin-bottom: 9px;
 }
