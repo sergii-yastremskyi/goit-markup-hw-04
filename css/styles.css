@@ -545,19 +545,25 @@ margin-bottom: 20px;
     display: flex;
     
 }
+.social-list-item-footer {
+    display: block;
+    width: 44px;
+    height: 44px;   
+}
 .social-list-footer-link{
       display: flex;
     justify-content: center;
     align-items: center;
     
     border-radius: 50%;
-    width: 44px;
-    height: 44px;
+    width: 100%;
+    height: 100%;
     fill: var(--bg-color);
     background-color: var(--transparent-bg)
 }
 .social-list-item-footer:not(:last-child) {
- margin-right: 10px;
+ 
+    margin-right: 10px;
 }
 
 /* portfolio */
