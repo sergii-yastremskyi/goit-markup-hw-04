@@ -170,7 +170,7 @@ border-bottom: 1px solid var(--border-color);
     /* fill: var(--font-color); */
     margin-right: 10px;
    
-    fill: curren;
+    fill: currentColor;
     
 }
 /* Hero */
@@ -194,7 +194,7 @@ border-bottom: 1px solid var(--border-color);
         rgba(47, 48, 58, 0.4)
         ), url("../images/hero-bg.jpg");
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: cneter;
     background-size: cover;
 }
 .container {
