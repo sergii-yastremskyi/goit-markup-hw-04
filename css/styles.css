@@ -575,6 +575,7 @@ margin-bottom: 20px;
 }
 .social-list-item-footer:not(:last-child) {
  margin-right: 10px;
+<<<<<<< HEAD
 }
 
 /* MODAl */
@@ -621,6 +622,8 @@ margin-bottom: 20px;
 .modal-icon {
     width: 11px;
     height: 11px;
+=======
+>>>>>>> parent of b0bffa3... Update styles.css
 }
 
 /* portfolio */
@@ -669,7 +672,7 @@ margin-bottom: 20px;
     flex-wrap: wrap;
     justify-content: center;
     margin: -15px;
-}с
+}
 .portfolio-img {
     width: 367px;
 }
